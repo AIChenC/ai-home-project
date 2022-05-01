@@ -1,0 +1,2 @@
+# ai-home-project
+Thonny_HTML_ESP32_Lights_music_customerized_IP
